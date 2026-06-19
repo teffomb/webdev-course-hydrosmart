@@ -69,7 +69,7 @@ requiere descargas!** Solo abre tu navegador web. <br>
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)<br>
 **📂 Repositorio de código fuente**: [https://github.com/1Kanan2/webdev-course-hydrosmart.git](https://github.com/1Kanan2/webdev-course-hydrosmart.git)
 ## Secuencia de la lección
-### Lección 1: Introducción al desarrollo web y Estructura HTML básica (XX:XX minutos)
+### Lección 1: Introducción al desarrollo web y Estructura HTML básica (2:12 minutos)
 - **Descripción**: Descubre qué es un sitio web y aprende la estructura fundamental de HTML, entendiendo cómo utilizar etiquetas, elementos y atributos para construir tu primera página.
 - **Enlace**: [Ver la lección](https://youtu.be/sxFszYuzlGI)
 - **Consejos clave**: Recuerda que la mayoría de las etiquetas HTML necesitan abrirse y cerrarse (con una barra diagonal `/`), y que los atributos siempre se colocan dentro de la etiqueta de apertura.
